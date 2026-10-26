@@ -46,3 +46,4 @@ def format_table(stats_list, target="Positive"):
         lines.append(f"| {s['keyword']} | {s['prior']:.4f} | {s['likelihood']:.4f} | "
                      f"{s['marginal']:.4f} | {s['posterior']:.4f} |")
     return "\n".join(lines)
+
