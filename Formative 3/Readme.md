@@ -52,7 +52,7 @@ The repository is organized into separate modules to keep the implementation cle
 
 |---|---|
 
-| `Group 12 Formative 3 Notebook.ipynb` | Main notebook containing explanations, experiments, results, and visualizations for Parts 1–4. |
+| `formative3.ipynb` | Main notebook containing explanations, experiments, results, and visualizations for Parts 1–4. |
 
 | `em.py` | Implements the Gaussian mixture model and Expectation-Maximization algorithm. |
 
